@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.3.1",
+    "@tailwindcss/forms": "^0.5.2",
+    "@tailwindcss/typography": "^0.5.4",
+    "@vueuse/core": "^9.1.0",
+    "@vueuse/nuxt": "^9.1.0",
+    "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^1.0.0-beta.1",
+    "@headlessui/vue": "^1.6.7",
+    "@iconify/vue": "^3.2.1"
+  }
+}

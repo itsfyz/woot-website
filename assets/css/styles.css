@@ -1,0 +1,11 @@
+.flex-center {
+  @apply flex items-center justify-center;
+}
+
+.flex-between {
+  @apply flex items-center justify-between;
+}
+
+.flex-space-x-2 {
+  @apply flex items-center space-x-2;
+}
